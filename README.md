@@ -10,11 +10,10 @@ front-end Developer
 
 ## About Me
 
-- I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-- Open to collaborating on exciting web development and open-source projects.
-- Always exploring modern technologies and best development practices.
+- I'm a **Front-end Web Developer**  passionate about crafting responsive, fast, and user-centric web applications.
+- Love turning creative ideas into functional real-world projects.
+- Open to collaborating on open-source initiatives and exciting web development projects.
+- Continuously exploring modern web trends, performance optimization, and best coding practices.
 - Fun Fact: **I love solving coding challenges and building useful applications.**
 
 ---
@@ -22,9 +21,7 @@ front-end Developer
 ## Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/
-mohamed-zifak-62329936b
-" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-zifak-62329936b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://vercel.com" target="_blank">
