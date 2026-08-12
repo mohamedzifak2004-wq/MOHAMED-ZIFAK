@@ -37,36 +37,8 @@ Front-End Developer | Passionate Problem Solver | Building Modern Web Experience
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
----
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedzifak2004-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzifak2004-wq&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedzifak2004-wq&theme=tokyo-night"/>
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohamedzifak2004-wq&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 <h3 align="center">
 Thanks for visiting my profile!
