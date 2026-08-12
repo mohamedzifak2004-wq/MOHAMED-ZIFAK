@@ -42,8 +42,8 @@ Front-End Developer | Passionate Problem Solver | Building Modern Web Experience
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedzifak2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzifak2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedzifak2004-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzifak2004-wq&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ Front-End Developer | Passionate Problem Solver | Building Modern Web Experience
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedzifak2004&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedzifak2004-wq&theme=tokyo-night"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Front-End Developer | Passionate Problem Solver | Building Modern Web Experience
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohamedzifak2004&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mohamedzifak2004-wq&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
