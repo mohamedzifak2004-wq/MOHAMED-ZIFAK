@@ -3,7 +3,7 @@
 Front-End Developer | Passionate Problem Solver | Building Modern Web Experiences
 </h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Front-End+Web+Developer;JavaScript+%7C+React+%7C+Tailwind;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Bootstrap;Git+%7C+GitHub+%7C+VSCode+%7C+Figma;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
@@ -34,11 +34,22 @@ Front-End Developer | Passionate Problem Solver | Building Modern Web Experience
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,git,github,vscode,figma" />
 </p>
 
+---
 
 
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedzifak2004-wq&theme=tokyo-night"/>
+</p>
+
+---
 
 <h3 align="center">
 Thanks for visiting my profile!
